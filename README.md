@@ -24,4 +24,6 @@ I am Oladapo Margaret Odumade an IT professional transitioning into cybersecurit
 
 ### 📜 Certifications
 - TryHackMe – Advent of Cyber (Completed)  
-  [View Certificate](./Advent_of_Cyber_Certificate.pdf)
+ ### 📜 Certifications
+- TryHackMe – Advent of Cyber (Completed)  
+  [View Certificate](https://raw.githubusercontent.com/TheDaps/TheDaps/main/AdventOfCyber%20Certificate.jpeg)
