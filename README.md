@@ -21,5 +21,6 @@ I am Oladapo Margaret Odumade an IT professional transitioning into cybersecurit
 - Continuous learning & problem-solving  
 
  ### 📜 Certifications
+ ISC2 Certified in Cybersecurity.jpeg
 - TryHackMe – Advent of Cyber 2025 (Completed)  
   [View Certificate](https://raw.githubusercontent.com/TheDaps/TheDaps/main/AdventOfCyber%20Certificate.jpeg)
